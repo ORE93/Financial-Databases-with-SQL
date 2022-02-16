@@ -22,9 +22,11 @@ Upload the Jupyter notebook for this assignment to your GitHub repository. Make 
 
 ## Web Application
 First I ran "viola etf_analyzer.ipynb" on Git Bash
+
 [![22ef724e-446a-467e-b952-4391b3c0b887.jpg](https://i.postimg.cc/fyQpqF98/22ef724e-446a-467e-b952-4391b3c0b887.jpg)](https://postimg.cc/YG8dhd8F)
 
 And it opened my notebook as a web application as you can see here
+
 [![66e19459-dfd8-42e5-a056-a44495250047.jpg](https://i.postimg.cc/j57BXKLW/66e19459-dfd8-42e5-a056-a44495250047.jpg)](https://postimg.cc/MMzs6C0x)
 
 ## Technologies
