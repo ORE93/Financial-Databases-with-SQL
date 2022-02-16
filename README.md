@@ -16,5 +16,12 @@ Your analysis of the ETF data that a SQL database stores
 
 Professionally styled and formatted interactive visualizations
 
+A screenshot or video of the web application that you created by deploying your Jupyter notebook via the Voilà library
+
+Upload the Jupyter notebook for this assignment to your GitHub repository. Make sure to update the READ.md file to include an explanation of your project, the screenshot or video of your deployed application, and any other information that’s needed to interact with your notebook and web application.
+
+## Web Application
+![viola](https://postimg.cc/YG8dhd8F][img]https://i.postimg.cc/YG8dhd8F/22ef724e-446a-467e-b952-4391b3c0b887.jpg)
+
 ## Technologies
 I've used Jupyter notebook to complete my code and create excellent visualizations. I used SQL to create the queries to gather my data so that I could use hvplot to plot it properly. 
